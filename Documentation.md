@@ -15,7 +15,7 @@ local WallyLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/blo
 
 ## Creating A Window
 ```lua
-local Window = library:CreateWindow("Window")
+local Window = WallyLib:CreateWindow("Window")
 
 --[[
 Name = Window (Change "Window" To The Name Of Your Choice!)
